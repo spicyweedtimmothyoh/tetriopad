@@ -17,8 +17,14 @@ I made a simple case for the board with some screw holes, a gap for the rp2040, 
 BOM:
 
 6x Cherry MX Switches
+
 2x SK6812 MINI Leds
+
 1x XIAO RP2040
+
 6x Blank DSA Keycaps
+
 3x M3x16 Bolt
+
 3x M3 Heatset
+
