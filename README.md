@@ -15,6 +15,7 @@ Using the hackpad tutorial, I routed all the components, using frontside and bac
 
 ## 3. cad
 I made a simple case for the board with some screw holes, a gap for the rp2040, and some nice beveled sides. I have some prior experience with fusion so this step was not too difficult.
+
 ![Diagram](https://github.com/spicyweedtimmothyoh/tetriopad/blob/main/images/Screenshot%202025-11-26%20122134.png)
 ![Diagram](https://github.com/spicyweedtimmothyoh/tetriopad/blob/main/images/Screenshot%202025-11-26%20122210.png)
 
